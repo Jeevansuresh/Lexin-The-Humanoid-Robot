@@ -11,6 +11,5 @@ Instructions of making this robot
 8.Tweak the Windows 10 OS only for the basic and neccessary Processes, this will make the windows 10 faster making the robot process faster(dont cut down internet processes and only remove uneccessary processes)
 9.Connect to the internet and run the "Py bot.vbs" this file will install all the required Modules that we are working with (all are open sources)
 10.Run the python script and customize it for your needs (you can also add a mini display to the robot for displaying purpose) 
-12.Make the required Ciruit
-13.the ".fzz" file is the circuit and ".fzpz" are the componenents (these are from a virtual circuit building app called fritzing) 
+12.the ".fzz" file is the circuit and ".fzpz" are the componenents (these are from a virtual circuit building app called fritzing) 
 
