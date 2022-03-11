@@ -13,4 +13,4 @@ https://github.com/Prajeeth-muthukumar/
 https://github.com/saivarshan-code/
 
 
-For the Instructions about the prograrmming and circuit, refer to instructions.txt
+For the Instructions about the prograrmming and circuit, refer to "Lexin instructions.txt"
