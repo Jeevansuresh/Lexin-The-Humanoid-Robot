@@ -1,0 +1,16 @@
+Instructions of making this robot 
+
+
+1.Make the required Circuit
+2.Install the Blynk App on android Phone, signup and create a Project
+3.Add 4 Digital Pin Widgets for controlling the robot
+4.Install Arduino IDE APP on PC
+5.Check Your Inbox for Blynk Authorisation Code and Copy it
+6.Upload the "Lexin Nodemcu Script.ino" to Nodemcu in Arduino IDE from PC (Enter Wifi SSID,Pass and blynk Authorisation Code)
+7.Boot windows 10 IoT Core Os in Raspberry Pi 4B+ 
+8.Tweak the Windows 10 OS only for the basic and neccessary Processes, this will make the windows 10 faster making the robot process faster(dont cut down internet processes and only remove uneccessary processes)
+9.Connect to the internet and run the "Py bot.vbs" this file will install all the required Modules that we are working with (all are open sources)
+10.Run the python script and customize it for your needs (you can also add a mini display to the robot for displaying purpose) 
+12.Make the required Ciruit
+13.the ".fzz" file is the circuit and ".fzpz" are the componenents (these are from a virtual circuit building app called fritzing) 
+
