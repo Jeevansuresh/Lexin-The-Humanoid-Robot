@@ -9,6 +9,8 @@ The Robot works with the voice assistant service from an Python Script along wit
 In the coming future, I will be working on to add more features like Face Detection and Recognition, Object Detection, Servo Hand Movements Etc
 
 I would also like to give credits of making this robot to Saivarshan and Prajeeth, They helped helped me building the voice assistance scripted commands of the robot in Python
+https://github.com/Prajeeth-muthukumar/
+https://github.com/saivarshan-code/
 
 
 For the Instructions about the robot, refer to instructions text
